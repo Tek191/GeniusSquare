@@ -1,13 +1,10 @@
 """ 
 GUI implementation of the Genius Square
 This includes functions to:
--Print a grid
--Intialize a grid with blockers
--Generate blockers from a seed
--Validate a move
--Place a piece
--Remove a piece
--Solve a grid
+-Render GUI
+-Manage input
+-Manage Hint system
+-Manage Genius Square Logic
 """
 #TODO Check functions for missing parameters, using globals instead currently
 
